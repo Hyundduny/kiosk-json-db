@@ -5,7 +5,7 @@
             "Name": "이현준",
             "Birth": "1999-09-09",
             "Phone": "010-7169-8924",
-            "Point": 10000
+            "Point": 5850
         },
         {
             "ID": 2,
@@ -63,6 +63,13 @@
             ]
         },
         "오렌지주스": {
+            "Type": "drink",
+            "Price": 4000,
+            "Temperature": [
+                "Ice"
+            ]
+        },
+        "레몬에이드": {
             "Type": "drink",
             "Price": 4000,
             "Temperature": [
