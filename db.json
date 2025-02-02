@@ -1,152 +1,156 @@
 {
-	"customer": [
-		{
-			"ID": 1,
-			"Name": "이현준",
-			"Birth": "1999-09-09",
-			"Phone": "010-7169-8924",
-			"Point": 0
-		},
-		{
-			"ID": 2,
-			"Name": "라이언",
-			"Birth": "2016-01-22",
-			"Phone": "010-1234-5678",
-			"Point": 0
-		}
-	],
-	"menu": {
-		"에스프레소": {
-			"Type": "drink",
-			"Price": 3500,
-			"Temperature": [
-				"Hot"
-			]
-		},
-		"녹차": {
-			"Type": "drink",
-			"Price": 3800,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"얼그레이": {
-			"Type": "drink",
-			"Price": 3800,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"페퍼민트": {
-			"Type": "drink",
-			"Price": 3800,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"아메리카노": {
-			"Type": "drink",
-			"Price": 4000,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"아이스티": {
-			"Type": "drink",
-			"Price": 4000,
-			"Temperature": [
-				"Ice"
-			]
-		},
-		"카페라떼": {
-			"Type": "drink",
-			"Price": 4500,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"바닐라라떼": {
-			"Type": "drink",
-			"Price": 4500,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"카푸치노": {
-			"Type": "drink",
-			"Price": 4500,
-			"Temperature": [
-				"Hot"
-			]
-		},
-		"카라멜마끼아또": {
-			"Type": "drink",
-			"Price": 4500,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"녹차라떼": {
-			"Type": "drink",
-			"Price": 4500,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"초코라떼": {
-			"Type": "drink",
-			"Price": 4500,
-			"Temperature": [
-				"Hot",
-				"Ice"
-			]
-		},
-		"아포가토": {
-			"Type": "drink",
-			"Price": 5000,
-			"Temperature": [
-				"Ice"
-			]
-		},
-		"마들렌": {
-			"Type": "dessert",
-			"Price": 3000
-		},
-		"초코쿠키": {
-			"Type": "dessert",
-			"Price": 3500
-		},
-		"딸기잼스콘": {
-			"Type": "dessert",
-			"Price": 3500
-		},
-		"옥수수스콘": {
-			"Type": "dessert",
-			"Price": 3500
-		},
-		"치즈케이크": {
-			"Type": "dessert",
-			"Price": 4500
-		},
-		"딸기케이크": {
-			"Type": "dessert",
-			"Price": 4500
-		},
-		"수제티라미수": {
-			"Type": "dessert",
-			"Price": 5000
-		},
-		"초코브라우니": {
-			"Type": "dessert",
-			"Price": 5000
-		}
-	}
+    "customer": [
+        {
+            "ID": 1,
+            "Name": "이현준",
+            "Birth": "1999-09-09",
+            "Phone": "010-7169-8924",
+            "Point": 10000
+        },
+        {
+            "ID": 2,
+            "Name": "라이언",
+            "Birth": "2016-01-22",
+            "Phone": "010-1234-5678",
+            "Point": 0
+        }
+    ],
+    "menu": {
+        "에스프레소": {
+            "Type": "drink",
+            "Price": 3500,
+            "Temperature": [
+                "Hot"
+            ]
+        },
+        "녹차": {
+            "Type": "drink",
+            "Price": 3800,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "얼그레이": {
+            "Type": "drink",
+            "Price": 3800,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "페퍼민트": {
+            "Type": "drink",
+            "Price": 3800,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "아메리카노": {
+            "Type": "drink",
+            "Price": 4000,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "아이스티": {
+            "Type": "drink",
+            "Price": 4000,
+            "Temperature": [
+                "Ice"
+            ]
+        },
+        "카페라떼": {
+            "Type": "drink",
+            "Price": 4500,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "바닐라라떼": {
+            "Type": "drink",
+            "Price": 4500,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "카푸치노": {
+            "Type": "drink",
+            "Price": 4500,
+            "Temperature": [
+                "Hot"
+            ]
+        },
+        "카라멜마끼아또": {
+            "Type": "drink",
+            "Price": 4500,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "녹차라떼": {
+            "Type": "drink",
+            "Price": 4500,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "초코라떼": {
+            "Type": "drink",
+            "Price": 4500,
+            "Temperature": [
+                "Hot",
+                "Ice"
+            ]
+        },
+        "아포가토": {
+            "Type": "drink",
+            "Price": 5000,
+            "Temperature": [
+                "Ice"
+            ]
+        },
+        "마들렌": {
+            "Type": "dessert",
+            "Price": 3000
+        },
+        "초코쿠키": {
+            "Type": "dessert",
+            "Price": 3500
+        },
+        "딸기잼스콘": {
+            "Type": "dessert",
+            "Price": 3500
+        },
+        "옥수수스콘": {
+            "Type": "dessert",
+            "Price": 3500
+        },
+        "치즈케이크": {
+            "Type": "dessert",
+            "Price": 4500
+        },
+        "딸기케이크": {
+            "Type": "dessert",
+            "Price": 4500
+        },
+        "수제티라미수": {
+            "Type": "dessert",
+            "Price": 5000
+        },
+        "초코브라우니": {
+            "Type": "dessert",
+            "Price": 5000
+        },
+        "초코케이크": {
+            "Type": "dessert",
+            "Price": 4500
+        }
+    }
 }
