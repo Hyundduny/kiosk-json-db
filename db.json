@@ -62,6 +62,13 @@
                 "Ice"
             ]
         },
+        "오렌지주스": {
+            "Type": "drink",
+            "Price": 4000,
+            "Temperature": [
+                "Ice"
+            ]
+        },
         "카페라떼": {
             "Type": "drink",
             "Price": 4500,
@@ -140,6 +147,10 @@
             "Type": "dessert",
             "Price": 4500
         },
+        "초코케이크": {
+            "Type": "dessert",
+            "Price": 4500
+        },
         "수제티라미수": {
             "Type": "dessert",
             "Price": 5000
@@ -147,10 +158,6 @@
         "초코브라우니": {
             "Type": "dessert",
             "Price": 5000
-        },
-        "초코케이크": {
-            "Type": "dessert",
-            "Price": 4500
         }
     }
 }
