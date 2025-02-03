@@ -123,6 +123,13 @@
                 "Ice"
             ]
         },
+        "딸기라떼": {
+            "Type": "drink",
+            "Price": 4500,
+            "Temperature": [
+                "Ice"
+            ]
+        },
         "아포가토": {
             "Type": "drink",
             "Price": 5000,
